@@ -8,7 +8,7 @@ public class MainActivity extends AppCompatActivity {
 
     //initial state
 
-    String michael = "Michael";
+    String hans = "hans";
     String timo = "timo";
 
     @Override
